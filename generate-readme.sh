@@ -34,12 +34,14 @@ Please add changes there.
 
 
 # Reading List
-![](https://raw.githubusercontent.com/bamos/reading-list/gh-pages/img/reading-list.gif)
+![](https://raw.githubusercontent.com/ajitkoti/reading-list/gh-pages/img/reading-list.gif)
 
 This repository contains my open source reading list.
 I keep track of books editing the files here and
 the results are automatically published as a website at
-[http://bamos.github.io/reading-list](http://bamos.github.io/reading-list).
+[http://ajitkoti.github.io/reading-list](http://ajitkoti.github.io/reading-list).
+
+This project is forket from [https://github.com/bamos/reading-list.git](https://github.com/bamos/reading-list.git)
 
 # Goals
 + Plaintext and friendly data format.
